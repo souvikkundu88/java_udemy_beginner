@@ -14,6 +14,5 @@ public class TenEvenOdd {
             System.out.println("even " + "num"+i+ " = " + even + " odd " + "num"+i+ " = " + odd);
         }
     }
-    
 }
 
